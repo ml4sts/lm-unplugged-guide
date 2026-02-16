@@ -125,12 +125,13 @@ Depending on timing, choose one or more variants to reinforce or skip to closing
 
 ## Closing 
 
-:::::::{exercise}
+:::::::{exercise} What does it mean? 
 :label: meaning
 We have worked with this small language, but what do the documents mean? 
 
 
 ::::{solution} meaning
+:class: dropdown
 The words have no meaning, we did not assign any. That's how computers work. People give words meanings, the tokens we represent in the computer do not have any meaning to the computer.  
 
 We were able to model and proess this tiny language without assigning meaning, just like the computer does

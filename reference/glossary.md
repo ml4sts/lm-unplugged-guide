@@ -15,6 +15,9 @@ participant
 trainee
 :  person who attends the {term}`training` to become a {term}`facilitator` in the future
 
+trainer
+:  person who runs the {term}`training`; an experienced {term}`facilitator` with deeper background to help prepare people to run the workshop on their own. 
+
 training
 :  event to prepare future {term}`facilitators <facilitator>`
 
