@@ -19,7 +19,7 @@ project:
         - file: training/practice
     - title: Faciliator Resources
       children:
-        - file: activity/overview.md
+        - file: activity.md
           children:
             - file: activity/bias
             - file: activity/context
