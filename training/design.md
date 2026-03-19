@@ -5,7 +5,7 @@ Now, we peel back behind the scenes a bit. For you to be ready to run this yours
 Key points for attendees:
 1. randomness is key
 1. artificial neural networks are not like a brain
-1. AI is just producing words
+1. LLM just produce words
 
 
 Why the activity is formatted the way it is: 
