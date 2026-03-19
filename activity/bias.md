@@ -26,3 +26,17 @@ This
 
 (discussion:bias)=
 ## Discussion Guide
+Bias can enter at multiple points in the modeling pipeline, which can negatively affect model outcomes and the decisions made from them.
+- **Data Level:** During data collection, if the sample does not _adequately_ reflect the specific population or context in which the model will be used, the resulting training of our models can be skewed. This often appears as overrepresentation of some groups and underrepresentation of others or when data is drawn from a different social or cultural context than the one the model’s predictions are intended to serve. Further, when data is poor, we expect to see similar suboptimal outcomes.
+-     What are some ways we can ensure our data is good for our context?
+-     What practices lead to poor data collection?
+-     How can we better engage communities we would like to help with the design and proper use of LLMs?
+- **Assumptions:** It is normal to make modeling assumptions. However, some speak to a majority norm narrative which may not fit all contexts. These assumptions can lead to poor choices in model design, data cleaning/filtering, etc..
+-     How do we ensure assumptions we have fit the context we are predicting for?
+-     Are there some societal norms that you can think of which diverge your own contexts?
+-     What specific vocabularies do you think are helpful for your particular contexts?
+- **Evaluation & Benchmarking:** Metrics we use to test if our outcomes are fair and good for a society may focused on overall accuracy or fluency. This can overlook fairness or representational harms.
+-     How do you test if something is fair?
+-     What types of fairness make sense in your context?
+-     Why is fairness of value in your particular context?
+-     How can we ensure fairness?
