@@ -26,7 +26,8 @@ project:
         - file: reference/setup.md
         - file: reference/technical.md
         - file: reference/glossary.md
-    
+  abbreviations:
+    LLM: Large Language Model  
 site:
   template: book-theme
   options:

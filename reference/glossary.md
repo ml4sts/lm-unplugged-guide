@@ -51,6 +51,9 @@ artificial neuron
 : a type of function that takes a weighted sum of the inputs and passes them to an activation function
 : a type of mathematical, or computer, function that approximates some functions of biological neurons
 
+attention layer
+:  a type of neural network layer that assigned weights to the {term}`token` {term}`embedding` to represent the context of the current token
+
 binary
 :  a place based number system with base 2
 
@@ -81,6 +84,8 @@ development
 discriminative model
 : a type of statistical model that describes the decision boundary to make a prediction
 
+embedding
+: a numerical representation for complex data, for example text or images
 
 feature
 : in machine learning, one input to the prediction algorithm, typically of many, stored together in a feature vector
