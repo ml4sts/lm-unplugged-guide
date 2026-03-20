@@ -38,8 +38,8 @@ Bias can enter at multiple points in the modeling pipeline, which can negatively
 
 It is normal to make modeling assumptions; models are simplifications and simplifications require assumptions about what is and is not important. Therefore, assumptions can reflect only the norms and values of majority groups, or they can reflect multiple sets of norms and values. If the assumptions only reflect one group's values, then the choices in model design, data cleaning/filtering, etc will also only reflect that one set of norms and values. 
 - How do we ensure assumptions we have fit the context we are predicting for?
-- Are there some societal norms that you can think of which diverge your own contexts?
-- What specific vocabularies do you think are helpful for your particular contexts?
+- In your life, have you seen examples of societal norms or assumptions that do not align with your own context or experiences?
+- Are there particular terms you find important for communicating ideas in your community or field? Why?
 
 ### Evaluation & Benchmarking
 
