@@ -17,11 +17,12 @@ This
 1. Documents must be over Y words (if paired with a max, X, Y>=X+2 to make differences visible)
 1. Words (colors) cannot repeat back to back. 
 1. (untested so far) Tell each group not to use a specific color
-1. (untested) Give each group a very limited supply of one color; no sharing across groups 
+1. (untested) Give each group a very limited supply of one color stickies; no sharing across groups 
 
 (parallel)=
-## Parallel Training Tips
+## Parallel Training 
 
+1. you can divide the group an train in two stations to save time, then pour to combine. 
 
 
 (discussion:bias)=

@@ -10,4 +10,4 @@ Key points for attendees:
 
 Why the activity is formatted the way it is: 
 1. Unplugged as resistance
-1. No meaning is on purpose
+1. No meaning to the words is on purpose; computers do not *understand* the words. 
