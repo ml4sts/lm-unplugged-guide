@@ -198,6 +198,8 @@ token
 transformer
 : a type of model, specifically, a type of {term}`neural network architecture`
 
+training data
+:  data used to find the values of the model parameters to make the model work. 
 
 unsupervised learning
 : a type of machine learning that does not use target variables at learning (fit) time. 

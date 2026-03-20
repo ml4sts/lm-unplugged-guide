@@ -5,6 +5,11 @@ The main content of the page is an outline/ potential script for running the act
 The various call outs are facilitator notes. 
 ::::::
 
+:::::::{attention}
+This guide is written for future facilitators, if you want to see the workshop in action, [request an event](https://forms.gle/kJBoj6v2dBvkyAjd7)
+:::::::::::
+
+
 ::::::::::::::{exercise}
 :label:example
 
@@ -116,7 +121,7 @@ Remind that the parameters move the line. If you have multiple marker colors, yo
 ### Language
 
 - languages consists of words and grammar
-- in Natural Langue Processing we discuss {term}`tokens` (approx words, but sometimes smaller) and documents (units of text to analyze)
+- in Natural Langue Processing we discuss {term}`tokens <token>` and documents (units of text to analyze)
 - communicates ideas
 
 

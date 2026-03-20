@@ -12,6 +12,11 @@
 
 <!-- TODO(@sarah)  get exports from planning spreadsheet -->
 
+::::::{note}
+exmaples from previous events to be added soon
+::::::::
+
+
 
 (setup:detail:venue)=
 ## Venue Requirements and Considerations 
@@ -37,7 +42,9 @@ tips:
 - tape 
 - (optional) durable bin labels instead of tape
 
-
+::::{admonition}
+links to exact purchases to follow
+::::::
 
 
 
