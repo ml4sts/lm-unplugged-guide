@@ -2,7 +2,9 @@
 
 :::::{tip}
 The main content of the page is an outline/ potential script for running the activity. 
-The various call outs are facilitator notes. 
+Facilitator notes are in callout boxes and discussion questions are in exercise boxes. 
+
+The [reader tip](readertip) has more tips. 
 ::::::
 
 :::::::{attention}
