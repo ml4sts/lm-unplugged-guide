@@ -1,4 +1,4 @@
-# Facilicator Onboarding Workshop
+# Facilitator Onboarding Workshop
 
 ## Workshop Outline
 
