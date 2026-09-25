@@ -37,6 +37,10 @@ doc can end at anytime with a white
 <!-- rules that would show up -->
 
 ## Discussion Guide
-
-- how might you train better to make it answer questions?
-- k-shot prompting 
+You may imagine having more context (i.e., larger context length) would give better and better outcomes as the length grows. However, this has limits. Think about when someone is telling you a LONG story. You have all of the background, but very limited capacity to recall every detail. While listening to the story, you try distingush what is important, but at times information gets lost. Similar with LLMs, large context windows consume more memory and processing time and eventually become ineffective.
+- When you have a lot of information to study/remember, how do you decide what is most important to focus on first?
+- How might you train better to make it answer questions?
+- What strategies could be used to manage very long contexts effectively and what are the potential downsides of each approach?
+-   k-shot prompting
+-   summarization
+-   cutting out the fluff
