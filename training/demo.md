@@ -1,6 +1,6 @@
 # Demo 
 
-Next we will do a short demo of the [activity](../activity/overview.md). 
+Next we will do a short demo of the [activity](./activity.md). 
 
 
 This will be abbreviated to save time by:
