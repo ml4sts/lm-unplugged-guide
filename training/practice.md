@@ -1,8 +1,9 @@
 # Practice 
 
-We will divide the room and each person gets a chance to act like the facilitator in each of the two key roles: generation and facilitations. 
+We will divide the room and each person, or {term}`trainee`, gets a chance to act like the {term}`facilitator` in each of the two key roles: [generation](#practice:generation) and [training](#practice:training). All attendees take a turn in each station. If there are two  {term}`trainers <trainer>` one will run each station, with only one {term}`trainers <trainer>` a helper may run one station. 
 
 
+(practice:generation)=
 ## Generation station
 
 
@@ -10,8 +11,9 @@ We will divide the room and each person gets a chance to act like the facilitato
 - {term}`trainers <trainer>` will act as {term}`participant`/ {term}`helper`
 
 
-As the facilitator for generation, you will draw from the bin where the person prompts and add that to the board. Then from that bin for the next one until you draw a white. 
+During generation the {term}`facilitator` role is to draw from the bin where basedd on an audience prompt and add that to the board (or have a {term}`helper`). Then from that bin for the next one until you draw a white. 
 
+(practice:training)=
 ## Training station
 
 - we have some prepared documents
